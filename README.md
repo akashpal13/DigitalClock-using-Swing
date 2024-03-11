@@ -16,3 +16,12 @@ To run the digital clock, simply compile and execute the `Main` class.
 ```bash
 javac Main.java
 java Main
+```
+## Code Highlights
+
+_ **My Window:** Swing JFrame class for the main window and GUI setup.
+
+## Contributor
+Akash Pal
+akashpal91522@gmail.com
+https://www.linkedin.com/in/akash-pal113/
