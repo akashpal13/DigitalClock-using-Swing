@@ -22,6 +22,6 @@ java Main
 _ **My Window:** Swing JFrame class for the main window and GUI setup.
 
 ## Contributor
-Akash Pal
-akashpal91522@gmail.com
+Akash Pal <br>
+akashpal91522@gmail.com <br>
 https://www.linkedin.com/in/akash-pal113/
